@@ -7,7 +7,7 @@
 
 My name is Igor cruz, im a fullstack developer, currently live in Teresópilis - RJ, and passionate for programming and learn.
 
-### Main Skills
+### Skills
 - CI/CD - Google Cloud
 - NodeJS - Express, NestJS
 - React - NextJS, Redux, Styled Components
