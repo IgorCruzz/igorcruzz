@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:igorcruz.dev@gmail.com)](mailto:igorcruz.dev@gmail.com)
 
 #Main Skills
-- CI/CD - Cloud Build
+- CI/CD - Google Cloud
 - NodeJS - Express, NestJS
 - React - NextJS, Redux, Styled Components
 - ORM - TypeORM, Sequelize, Mongoose
