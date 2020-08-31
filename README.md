@@ -1,4 +1,4 @@
-### Hello there 👋
+<h1 align="center">### Hello there 👋</h1>
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorcruzz/)](https://www.linkedin.com/in/igorcruzz/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:igorcruz.dev@gmail.com)](mailto:igorcruz.dev@gmail.com)
