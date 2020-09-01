@@ -8,6 +8,8 @@
 <p align="center">My name is Igor cruz, im a fullstack developer, currently live in Teresópolis - RJ, and passionate for programming and learn.</p>
 
 ### Skills
+- Scrum
+- Solid
 - CI/CD - Google Cloud
 - NodeJS - Express, NestJS
 - React - NextJS, Redux, Styled Components
