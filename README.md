@@ -10,7 +10,7 @@
 ### Skills
 - Scrum
 - Solid
-- CI/CD - Google Cloud
+- CI/CD - Google Cloud Platform
 - NodeJS - Express, NestJS
 - React - NextJS, Redux, Styled Components
 - ORM - TypeORM, Sequelize, Mongoose
