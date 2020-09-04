@@ -10,6 +10,7 @@
 ### Skills
 - Scrum
 - Solid
+- Kubernetes
 - CI/CD - Google Cloud Platform
 - NodeJS - Express, NestJS
 - React - NextJS, Redux, Styled Components
