@@ -19,5 +19,5 @@
 - Docker
 - HTML5 | CSS3 | Javascript(ES6), Typescript
 - Pré-processador: Sass
-- Unit test: Jest
+- TDD: Jest
 - Database: Postgres, Sqlite, MongoDB
