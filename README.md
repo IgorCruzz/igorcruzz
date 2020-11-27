@@ -9,6 +9,7 @@
 
 ### Skills
 - Scrum
+- Clean Architecture
 - Solid
 - Kubernetes
 - CI/CD - Google Cloud Platform
