@@ -23,3 +23,5 @@
 - Pré-processador: Sass
 - TDD: Jest
 - Database: Postgres, Sqlite, MongoDB
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=igorcruzz)](https://github.com/anuraghazra/github-readme-stats)
