@@ -8,6 +8,7 @@
 <p align="center">My name is Igor cruz, im a fullstack developer, currently live in Teresópolis - RJ, and passionate for programming and learn.</p>
 
 ### Skills
+- Micro-Service: Grpc-js
 - Scrum
 - Clean Architecture
 - Solid
