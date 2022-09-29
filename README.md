@@ -13,7 +13,6 @@
 - Clean Architecture
 - Solid
 - Swagger
-- Kubernetes
 - CI/CD - Google Cloud Platform
 - NodeJS - Express, NestJS
 - React - NextJS, Redux, Styled Components
