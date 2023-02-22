@@ -9,6 +9,7 @@
 
 ### Skills
 - Micro-Service: Grpc-js
+- Background Jobs: Bull
 - Scrum
 - Clean Architecture
 - Solid
@@ -22,6 +23,6 @@
 - HTML5 | CSS3 | Javascript(ES6), Typescript
 - Pré-processador: Sass
 - TDD: Jest
-- Database: Postgres, Sqlite, MongoDB
+- Database: Postgres, Sqlite, MongoDB, Redis
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=igorcruzz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
