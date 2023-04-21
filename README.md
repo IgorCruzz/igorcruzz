@@ -16,7 +16,7 @@
 - Swagger
 - CI/CD - Google Cloud Platform
 - NodeJS - Express, NestJS
-- React - NextJS, Redux, Styled Components
+- React - NextJS, Redux, Styled Components, Context API, Hoc
 - ORM - TypeORM, Sequelize, Mongoose
 - Git
 - Docker
