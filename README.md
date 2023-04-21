@@ -23,6 +23,11 @@
 - HTML5 | CSS3 | Javascript(ES6), Typescript
 - Pré-processador: Sass
 - TDD: Jest
-- Database: Postgres, Sqlite, MongoDB, Redis
+- Database: Postgres, Sqlite, MongoDB, Redis 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=igorcruzz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+ <img height="180em" width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=igorcruzz&show_icons=true&theme=tokyonight" alt="Souzzs Stats" />
+ 
+  <img height="180em" width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcruzz&layout=compact&theme=tokyonight" alt="Souzzs Most Languages" />
+</div>
+ 
