@@ -5,25 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:igorcruz.dev@gmail.com)](mailto:igorcruz.dev@gmail.com)
  
 
-<p align="center">My name is Igor cruz, im a fullstack developer, currently live in Teresópolis - RJ, and passionate for programming and learn.</p>
+<p align="center">Igor cruz</p>
 
-### Skills
-- Micro-Service: Grpc-js
-- Background Jobs: Bull
-- Scrum
-- Clean Architecture
-- Solid
-- Swagger
-- CI/CD - Google Cloud Platform
-- NodeJS - Express, NestJS
-- React - NextJS, Redux, Styled Components, Context API, Hoc
-- ORM - TypeORM, Sequelize, Mongoose
-- Git
-- Docker
-- HTML5 | CSS3 | Javascript(ES6), Typescript
-- Pré-processador: Sass
-- TDD: Jest
-- Database: Postgres, Sqlite, MongoDB, Redis 
+Passionate developer with a strong commitment to continuous learning and constant improvement, possessing solid knowledge of SOLID principles, Design Patterns, TDD, and software architecture best practices. Experienced in large-scale projects, ranging from government initiatives in Rio de Janeiro to high-value cargo monitoring solutions. Proficient in Node.js, React, and AWS, with a focus on delivering scalable and efficient solutions, while maintaining high code quality and maintainability.
 
 <div>
  <img height="180em" width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=igorcruzz&show_icons=true&theme=tokyonight" alt="Souzzs Stats" />
