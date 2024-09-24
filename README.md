@@ -5,7 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:igorcruz.dev@gmail.com)](mailto:igorcruz.dev@gmail.com)
  
 
-<p align="center">Igor cruz</p>
 
 Passionate developer with a strong commitment to continuous learning and constant improvement, possessing solid knowledge of SOLID principles, Design Patterns, TDD, and software architecture best practices. Experienced in large-scale projects, ranging from government initiatives in Rio de Janeiro to high-value cargo monitoring solutions. Proficient in Node.js, React, and AWS, with a focus on delivering scalable and efficient solutions, while maintaining high code quality and maintainability.
 
